@@ -24,3 +24,4 @@ step 3 : firstly format SD card , write OS in it and put it into raspberry pi.
 5) putty - https://www.putty.org/
 
 
+[LICENCE]
