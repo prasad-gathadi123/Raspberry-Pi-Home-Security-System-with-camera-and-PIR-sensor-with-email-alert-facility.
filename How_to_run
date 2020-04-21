@@ -5,3 +5,10 @@ and directly run the main.py file
 
 
 In the program write your own email id passward and user email id .
+
+#Interfacing of PIR to Raspberry pi
+
+  Pins                                            Connection With Raspberry pi
+  VCC                                             Connect Any power Pin of Raspberry pi (5v)
+  GND                                             Ground
+  OUT                                             Connect To GPIO Pin 23 (you can connect to any GPIO Pin)
